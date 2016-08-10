@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <com.smarter.pictureview.view.PictureView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:src="@mipmap/house"
+       android:scaleType="matrix"/>
+
+</RelativeLayout>
